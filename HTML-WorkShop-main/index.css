@@ -1,0 +1,43 @@
+a{
+    text-decoration: none;
+    color: brown;
+}
+a:hover{
+    text-decoration: underline;
+    color: green;
+}
+header{
+    background-color: lightcoral;
+    border-radius: 10px;
+   
+}
+h1, nav{
+    margin-left: 10%;
+    padding:0.5%;
+}
+nav{
+    padding-bottom: 0.5%;
+}
+h2{
+    color: black;
+    text-decoration: underline;
+}
+.name{ text-align: center;
+font-weight: 500;
+color: rgb(64, 107, 15);}
+#sumbit{
+    border: none;
+    padding: 5px;
+    background-color: lightblue;
+    color: rgb(58, 57, 57);
+    margin: 20px;
+
+}
+#sumbit:hover{
+    background-color: blue;
+    color: azure;
+}
+form{
+    margin: auto;
+    width: 70%;
+}
